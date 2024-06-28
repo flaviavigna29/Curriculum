@@ -1,0 +1,9 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+@media screen and (min-width: 992px) and (max-width: 1235px) {
+  .testo_piccolo {
+    font-size: 12px;
+  }
+}
